@@ -1,0 +1,11 @@
+.transaction__history {
+  background-color: gray;
+  border-radius: 10px;
+  margin: 10px;
+}
+.transaction {
+  margin: 10px auto;
+  width: 500px;
+  border-radius: 10px;
+  border: 2px solid rgb(124, 104, 104);
+}

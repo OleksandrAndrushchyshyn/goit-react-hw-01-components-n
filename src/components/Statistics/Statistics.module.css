@@ -1,0 +1,29 @@
+.statistics {
+  background-color: thistle;
+  width: 500px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+.stats {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgb(238, 245, 238);
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 0 auto;
+}
+.item {
+  width: 100%;
+
+  border-radius: 5%;
+  border: 2px solid rgb(124, 104, 104);
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: gray;
+}
